@@ -1,0 +1,18 @@
+{
+  "node_id": "1414c9444f24bbf0f2f5ece04f1dcdc87fa13dbd",
+  "ip": "51.255.1.197",
+  "validator": {
+    "pub_key": {
+      "type": "tendermint/PubKeyEd25519",
+      "value": "RBuRRNEzA9RA1Wrdi9PPFQJ29/n/bqN9O2tQv9Gq248="
+    },
+    "power": "100",
+    "name": ""
+  },
+  "app_gen_tx": {
+    "name": "skoed-validator-7000",
+    "address": "cosmosaccaddr1qkc3tghc3fms7eye7vtu0g0370epr4jkje2ne7",
+    "pub_key": "cosmosaccpub1zcjduepqgsdez3x3xvpagsx4dtwch570z5p8dalelah2xlfmdd$
+  }
+}
+
