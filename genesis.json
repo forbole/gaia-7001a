@@ -99,7 +99,7 @@
         "address": "cosmosaccaddr1tsen8xak0x3ylhj9d059grpjswk0qhmxzyn72d",
         "coins": [
           {
-            "denom": "Adrian Brink - Cryptium LabsToken",
+            "denom": "cryptiumToken",
             "amount": "1000"
           },
           {
@@ -125,7 +125,7 @@
         "address": "cosmosaccaddr1wlfdeajg2ltnflpchukucdm3nnnps9d2ypnpal",
         "coins": [
           {
-            "denom": "bharvest-sentry1(KR)-7001aToken",
+            "denom": "bharvestToken",
             "amount": "1000"
           },
           {
@@ -138,7 +138,7 @@
         "address": "cosmosaccaddr12ztjt9nfj20cxw4w4fdg5g0lak83mc23csqzgx",
         "coins": [
           {
-            "denom": "certus.oneToken",
+            "denom": "certusToken",
             "amount": "1000"
           },
           {
@@ -164,7 +164,7 @@
         "address": "cosmosaccaddr1939fvgpr0lazufcjp47dpuhjyhumrv37r4khf0",
         "coins": [
           {
-            "denom": "VNode01Token",
+            "denom": "vnodeToken",
             "amount": "1000"
           },
           {
@@ -177,7 +177,7 @@
         "address": "cosmosaccaddr1rzp9aeq4pawuwww74d4szxfxcxczs7t8e8v39n",
         "coins": [
           {
-            "denom": "melea-trust-forboleToken",
+            "denom": "meleaToken",
             "amount": "1000"
           },
           {
@@ -190,7 +190,7 @@
         "address": "cosmosaccaddr1ttsysgktpxdl47w68vz3q6ztuxmwp65d24pnwk",
         "coins": [
           {
-            "denom": "figment.hardwareToken",
+            "denom": "figmentToken",
             "amount": "1000"
           },
           {
@@ -215,7 +215,7 @@
     ],
     "stake": {
       "pool": {
-        "loose_tokens": "1350",
+        "loose_tokens": "5400",
         "bonded_tokens": "0",
         "inflation_last_time": "0",
         "inflation": "7/100",
