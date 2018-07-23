@@ -1,0 +1,17 @@
+{
+  "node_id": "4492b5385bf057a55d73855a4f648f4c9dc2924d",
+  "ip": "52.55.237.108",
+  "validator": {
+    "pub_key": {
+      "type": "tendermint/PubKeyEd25519",
+      "value": "Go9GXHI6SCQo2QKMxkAkgYLhfo3XrVjWLR2nE2AvYyk="
+    },
+    "power": "100",
+    "name": ""
+  },
+  "app_gen_tx": {
+    "name": "Staked",
+    "address": "cosmosaccaddr1zds6r7jyxyxcpf05r5yyyy3u8q2rvj9kkc6vcv",
+    "pub_key": "cosmosaccpub1zcjduepqr285vhrj8fyzg2xeq2xvvspysxpwzl5d67k4343drkn3xcp0vv5sy42su8"
+  }
+}
