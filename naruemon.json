@@ -1,0 +1,18 @@
+{
+  "node_id": "94b04c2ae7816f605a3653e3a74b232324e941d0",
+  "ip": "107.23.149.192",
+  "validator": {
+    "pub_key": {
+      "type": "tendermint/PubKeyEd25519",
+      "value": "kol7Gj60Fct4X8T1rHLJQ0z/b14UqqSae8h1e37rLL8="
+    },
+    "power": "100",
+    "name": ""
+  },
+  "app_gen_tx": {
+    "name": "VNode01",
+    "address": "cosmosaccaddr1939fvgpr0lazufcjp47dpuhjyhumrv37r4khf0",
+    "pub_key": "cosmosaccpub1zcjduepqj2yhkx37ks2uk7zlcn66cukfgdx07m67zj42fxnmep6
+hklht9jlste8kx9"
+  }
+}
