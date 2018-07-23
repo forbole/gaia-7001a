@@ -1,0 +1,17 @@
+{
+   "node_id":"3beecb7b28ed8c17bc07ca6d20c7b64fd090dbfd",
+   "ip":"0.0.0.0",
+   "validator":{
+      "pub_key":{
+         "type":"tendermint/PubKeyEd25519",
+         "value":"dRnfUwMJIp2f6STWwriBVbhBSWT946nydXpZf6OKo50="
+      },
+      "power":"100",
+      "name":""
+   },
+   "app_gen_tx":{
+      "name":"certus.one",
+      "address":"cosmosaccaddr12ztjt9nfj20cxw4w4fdg5g0lak83mc23csqzgx",
+      "pub_key":"cosmosaccpub1zcjduepqw5va75crpy3fm8lfyntv9wyp2kuyzjtylh36nun40fvhlgu25wws5ewnyw"
+   }
+}

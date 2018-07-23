@@ -1,0 +1,17 @@
+{
+  "node_id": "361adc5518eb4b4ee0120bda00c76bba5dcc8ff4",
+  "ip": "13.125.237.70",
+  "validator": {
+    "pub_key": {
+      "type": "tendermint/PubKeyEd25519",
+      "value": "1WEIu2cRH6rMpIdY2rQS3QEeKX9mOtyeSViKEJqvmz8="
+    },
+    "power": "100",
+    "name": ""
+  },
+  "app_gen_tx": {
+    "name": "bharvest-sentry1(KR)-7001a",
+    "address": "cosmosaccaddr1wlfdeajg2ltnflpchukucdm3nnnps9d2ypnpal",
+    "pub_key": "cosmosaccpub1zcjduepq64ss3wm8zy064n9ysavd4dqjm5q3u2tlvcade8jftz9ppx40nvls76t302"
+  }
+}
