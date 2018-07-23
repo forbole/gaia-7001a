@@ -1,0 +1,17 @@
+{
+    "node_id": "2a16c71db98281493e47942f89c6a591ffc06091",
+    "ip": "",
+    "validator": {
+      "pub_key": {
+        "type": "tendermint/PubKeyEd25519",
+        "value": "fni+XQOuuBtJKh06NeheZueMp+uuP0CJX2jm5/MidyM="
+      },
+      "power": "100",
+      "name": “chorusone_validator”
+    },
+    "app_gen_tx": {
+      "name": "chorusone_validator",
+      "address": "cosmosaccaddr1xuwcmdvef5xudnyqa9gh5vqlq6ff0meu87zjxh",
+      "pub_key": "cosmosaccpub1addwnpepq2n4aedhhsr5xhe0raztkzdgu45hh9f0m4wu7p3gukhrfuh3tyllgz5ycem"
+    }
+  }
